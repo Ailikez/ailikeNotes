@@ -1,8 +1,8 @@
 - Orangepi 要使用armhf的源才可以
 - 这是推荐的源，看图，自己码网址
-- ![img](./huanyuan_orangepi.png)
+- ![img](./img/huanyuan_orangepi.png)
 - 改好的sourcelist
-- ![img](./huanyuan_orangepi_sourcelist.png)
+- ![img](./img/huanyuan_orangepi_sourcelist.png)
 
 ###  **注意事项**：
 

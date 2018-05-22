@@ -2,5 +2,5 @@
 
 啥都不说，看图，2018/4/17
 
-![](./huanyuan.png)
+![](./img/huanyuan.png)
 

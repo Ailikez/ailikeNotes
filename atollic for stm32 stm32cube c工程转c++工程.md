@@ -38,8 +38,8 @@
 
 - **细节1**
   - 修改完之后，工程要重启来设置c++ compiler的目录和宏定义
-  - ![](./c_cpp_convert_c++compiler_symbols.png)
-  - ![](c_cpp_convert_compiler_dir.png)
+  - ![](./img/c_cpp_convert_c++compiler_symbols.png)
+  - ![](./img/c_cpp_convert_compiler_dir.png)
 - **细节2**
   - 如果你使用了FreeRTOS，那么main.cpp是编译不过去的需要一些小改动
-  - ![](c_cpp_convert_freertos_problem.png)
+  - ![](./img/c_cpp_convert_freertos_problem.png)

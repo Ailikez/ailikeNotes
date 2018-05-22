@@ -14,11 +14,11 @@
 >
 > - 安装：`pip install virtualenvwrapper-win`
 >
-> - 创建环境：`mkvirtualenv venv`，默认是在~/Envs创建，更改环境需要设置环境变量，如图![WORKON_HOME](./virtualenvwrapper_change_workon_dir.png)
+> - 创建环境：`mkvirtualenv venv`，默认是在~/Envs创建，更改环境需要设置环境变量，如图![WORKON_HOME](./img/virtualenvwrapper_change_workon_dir.png)
 >
 >   Linux环境下如下图
 >
->   ![WORKON_HOME LINUX](./virtualenvwrapper_change_workon_dir_linux.png)
+>   ![WORKON_HOME LINUX](./img/virtualenvwrapper_change_workon_dir_linux.png)
 >
 > - 列出环境：`workon`or`lsvirtualenv`
 >
