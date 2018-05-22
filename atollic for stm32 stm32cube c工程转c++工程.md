@@ -1,4 +1,4 @@
-### 转换过程基本是按照下面来的，还有一些他没说到的小细节
+### 转换过程基本是按照下面来的，还有一些小细节
 
 [https://stackoverflow.com/questions/35288808/first-project-for-stm32-with-hal-in-c](https://stackoverflow.com/questions/35288808/first-project-for-stm32-with-hal-in-c)
 
@@ -43,4 +43,3 @@
 - **细节2**
   - 如果你使用了FreeRTOS，那么main.cpp是编译不过去的需要一些小改动
   - ![](c_cpp_convert_freertos_problem.png)
-
